@@ -1,5 +1,2 @@
-my_pen.setheading(150)
-# my_pen.forward(350)
-# # (-303.11,175.00)
-# my_pen.setheading(90)
-# my_pen.forward(50)
+er_V()
+lett
