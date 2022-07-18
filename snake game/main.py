@@ -1,6 +1,4 @@
 from turtle import Screen
-
-from requests import head
 from scoreboard import Scoreboard
 from snake import Snake
 from food import Food
